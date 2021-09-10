@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sinover
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning whatever I'm interested in (ERROR! dead loop here, please terminate this process or restart your computer)
-- 💞️ I’m looking to collaborate on ... wait, I'm workong alone
+- 💞️ I’m looking to collaborate on ... wait, I'm working alone
 - 📫 How to reach me ... please don't
 
 <!---
